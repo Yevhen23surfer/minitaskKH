@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinitaskKH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+300b25e109af88c40230b410704d11fd32ada111")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04bd2e31298f9a85ea0ac1d824d9494046d19257")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinitaskKH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinitaskKH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

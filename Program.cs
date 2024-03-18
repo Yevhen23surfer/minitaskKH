@@ -67,6 +67,7 @@ class MultipurposeApp
             Console.WriteLine($"Item: {itemName}, Quantity: {quantity}, Weight: {weight} kg, Price: ${pricePerUnit * quantity}");
         }
         */
+        
         /*
         // Task 4: Simple Calculator (Example)
         Console.WriteLine("\nWould you like to use the simple calculator? (yes/no)");
