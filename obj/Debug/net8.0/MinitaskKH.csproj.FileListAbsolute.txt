@@ -1,0 +1,15 @@
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/bin/Debug/net8.0/MinitaskKH
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/bin/Debug/net8.0/MinitaskKH.deps.json
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/bin/Debug/net8.0/MinitaskKH.runtimeconfig.json
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/bin/Debug/net8.0/MinitaskKH.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/bin/Debug/net8.0/MinitaskKH.pdb
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/obj/Debug/net8.0/MinitaskKH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/obj/Debug/net8.0/MinitaskKH.AssemblyInfoInputs.cache
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/obj/Debug/net8.0/MinitaskKH.AssemblyInfo.cs
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/obj/Debug/net8.0/MinitaskKH.csproj.CoreCompileInputs.cache
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/obj/Debug/net8.0/MinitaskKH.sourcelink.json
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/obj/Debug/net8.0/MinitaskKH.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/obj/Debug/net8.0/refint/MinitaskKH.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/obj/Debug/net8.0/MinitaskKH.pdb
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/obj/Debug/net8.0/MinitaskKH.genruntimeconfig.cache
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/minitaskKH/obj/Debug/net8.0/ref/MinitaskKH.dll
